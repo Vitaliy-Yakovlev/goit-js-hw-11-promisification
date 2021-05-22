@@ -7,4 +7,4 @@ const t=(t,n)=>Math.floor(Math.random()*(n-t+1)+t),n=n=>new Promise((a,o)=>{cons
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/task-01"),require("./js/task-02"),require("./js/task-03");
 },{"./js/task-01":"o6lB","./js/task-02":"L79m","./js/task-03":"eBhC"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11-promisification/src.1c78c1cb.js.map
+//# sourceMappingURL=/goit-js-hw-11-promisification/src.43fadb13.js.map
